@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Club-Site/static/css/main.720930e7.css",
-    "main.js": "/Club-Site/static/js/main.ff61df44.js",
+    "main.js": "/Club-Site/static/js/main.3a0d223c.js",
     "static/media/hack_group_photo.svg": "/Club-Site/static/media/hack_group_photo.1f05f2a3c0a973bc295998791f5c0bf7.svg",
     "static/media/irvinehacks.jpg": "/Club-Site/static/media/irvinehacks.b8bb5fa301e527227241.jpg",
     "static/media/zothacks.jpg": "/Club-Site/static/media/zothacks.4104fd5bfc599c1671b2.jpg",
@@ -28,10 +28,10 @@
     "static/media/youtube_icon.svg": "/Club-Site/static/media/youtube_icon.b6b73bc65622565a86cedeeed8126608.svg",
     "static/media/facebook_icon.svg": "/Club-Site/static/media/facebook_icon.1afc609c4854855cda01cc96b6cbc892.svg",
     "main.720930e7.css.map": "/Club-Site/static/css/main.720930e7.css.map",
-    "main.ff61df44.js.map": "/Club-Site/static/js/main.ff61df44.js.map"
+    "main.3a0d223c.js.map": "/Club-Site/static/js/main.3a0d223c.js.map"
   },
   "entrypoints": [
     "static/css/main.720930e7.css",
-    "static/js/main.ff61df44.js"
+    "static/js/main.3a0d223c.js"
   ]
 }
